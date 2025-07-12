@@ -10,6 +10,6 @@
 |---------------------|--------------|-----------------------------------|------------------------------------------------------|
 | Aloukik Joshi       | Team Leader  | aloukikjoshi@gmail.com            | [aloukikjoshi](https://github.com/aloukikjoshi)      |
 | Saksham Kumar       | Member       | sakshamkumarprasad03@gmail.com    | [Polymath-Saksh](https://github.com/Polymath-Saksh)  |
-| Nihal Pandey        | Member       | nihalvyas1234@gmail.com           | [NihalPandey5060](https://github.com/NihalPandey5060) |
+| Nihal Pandey        | Member       | nihalpandey5060@gmail.com           | [NihalPandey5060](https://github.com/NihalPandey5060) |
 
 ---
